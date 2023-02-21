@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PSP_1LD.iml" filepath="$PROJECT_DIR$/PSP_1LD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/klientas/klientas.iml" filepath="$PROJECT_DIR$/klientas/klientas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pvz/pvz.iml" filepath="$PROJECT_DIR$/pvz/pvz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serveris/serveris.iml" filepath="$PROJECT_DIR$/serveris/serveris.iml" />
+    </modules>
+  </component>
+</project>

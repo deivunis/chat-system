@@ -1,0 +1,536 @@
+2023-02-18T17:00:48.934929800:  -> User60348: Vartotoju sarasas:  User60348; User60351;
+2023-02-18T17:05:51.290293100:  <- User60367: List
+2023-02-18T17:05:51.290293100:  -> User60367: Vartotoju sarasas:  User60367; User60371;
+2023-02-18T17:05:55.157670:  <- User60367: all: zinute
+2023-02-18T17:06:11.239248800:  <- User60367: ind:User60371:labas
+2023-02-18T17:06:20.714920:  <- User60371: List
+2023-02-18T17:06:20.714920:  -> User60371: Vartotoju sarasas:  User60367; User60371;
+2023-02-18T17:06:24.681579200:  <- User60371: List
+2023-02-18T17:06:24.686585500:  -> User60371: Vartotoju sarasas:  User60367; User60371;
+2023-02-18T17:06:26.940740100:  <- User60371: List
+2023-02-18T17:06:26.940740100:  -> User60371: Vartotoju sarasas:  User60367; User60371;
+2023-02-18T17:21:41.128330300:  <- User60417: List
+2023-02-18T17:21:41.128330300:  -> User60417: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:21:48.778807500:  <- User60417: all: sveiki
+2023-02-18T17:22:09.858779600:  <- User60417: ind:User60425:zdarova
+2023-02-18T17:22:21.638356100:  <- User60425: List
+2023-02-18T17:22:21.638356100:  -> User60425: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:22:26.654080:  <- User60417: ka tu
+2023-02-18T17:22:30.391895800:  <- User60425: List
+2023-02-18T17:22:30.391895800:  -> User60425: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:22:55.511746700:  <- User60421: List
+2023-02-18T17:22:55.511746700:  -> User60421: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:23:04.843548500:  <- User60421: a
+2023-02-18T17:23:53.310439800:  <- User60425: List
+2023-02-18T17:23:53.310439800:  -> User60425: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:10.822411900:  <- User60425: nick:Vartotojas
+2023-02-18T17:24:15.367485500:  <- User60425: List
+2023-02-18T17:24:15.367485500:  -> User60425: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:26.034945:  <- User60425: List
+2023-02-18T17:24:26.035971400:  -> User60425: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:34.514635100:  <- User60417: List
+2023-02-18T17:24:34.514635100:  -> User60417: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:39.123863900:  <- User60417: List
+2023-02-18T17:24:39.123863900:  -> User60417: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:50.373962:  <- User60417: nick:aaaa
+2023-02-18T17:24:52.731308300:  <- User60417: List
+2023-02-18T17:24:52.732343900:  -> User60417: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:24:54.799205300:  <- User60417: List
+2023-02-18T17:24:54.799205300:  -> User60417: Vartotoju sarasas:  User60417; User60421; User60425;
+2023-02-18T17:25:14.991021200:  <- User60425: Bye
+2023-02-18T17:25:14.991021200: User60425ATSIJUNGE
+2023-02-18T17:25:25.349652:  <- User60417: List
+2023-02-18T17:25:25.349652:  -> User60417: Vartotoju sarasas:  User60417; User60421;
+2023-02-18T17:26:20.151250:  <- User60439: List
+2023-02-18T17:26:20.151250:  -> User60439: Vartotoju sarasas:  User60417; User60421; User60439; User60442;
+2023-02-18T17:26:26.906401600:  <- User60439: nick:test
+2023-02-18T17:26:29.457283500:  <- User60439: List
+2023-02-18T17:26:29.457283500:  -> User60439: Vartotoju sarasas:  User60417; User60421; User60439; User60442;
+2023-02-18T17:26:32.618959900:  <- User60439: List
+2023-02-18T17:26:32.618959900:  -> User60439: Vartotoju sarasas:  User60417; User60421; User60439; User60442;
+2023-02-18T17:26:53.217750900:  <- User60449: List
+2023-02-18T17:26:53.217750900:  -> User60449: Vartotoju sarasas:  User60449; User60454;
+2023-02-18T17:26:55.620786300:  <- User60449: nick: aaa
+2023-02-18T17:26:57.555195900:  <- User60449: a
+2023-02-18T17:27:06.224287500:  <- User60454: List
+2023-02-18T17:27:06.225278900:  -> User60454: Vartotoju sarasas:  User60449; User60454;
+2023-02-18T17:27:09.086464200:  <- User60454: List
+2023-02-18T17:27:09.086464200:  -> User60454: Vartotoju sarasas:  User60449; User60454;
+2023-02-18T17:28:16.427731700:  <- User60470: nick:testas
+2023-02-18T17:28:19.952901:  <- User60466: List
+2023-02-18T17:28:19.952901:  -> User60466: Vartotoju sarasas:  User60466; User60470;
+2023-02-18T17:28:22.222821300:  <- User60466: List
+2023-02-18T17:28:22.222821300:  -> User60466: Vartotoju sarasas:  User60466; User60470;
+2023-02-18T17:28:25.059738400:  <- User60470: List
+2023-02-18T17:28:25.059738400:  -> User60470: Vartotoju sarasas:  User60466; User60470;
+2023-02-18T17:28:29.850387100:  <- User60466: List
+2023-02-18T17:28:29.850387100:  -> User60466: Vartotoju sarasas:  User60466; User60470;
+2023-02-18T17:31:39.723230500:  <- User60488: List
+2023-02-18T17:31:39.724228900:  -> User60488: Vartotoju sarasas:  User60480; User60483; User60488;
+2023-02-18T17:32:22.209564800:  <- User60502: List
+2023-02-18T17:32:22.211575500:  -> User60502: Vartotoju sarasas:  User60494; User60498; User60502;
+2023-02-18T17:32:26.874060500:  <- User60502: nic:TEST
+2023-02-18T17:32:34.427229200:  <- TEST: List
+2023-02-18T17:32:34.428221:  -> TEST: Vartotoju sarasas:  User60494; User60498; TEST;
+2023-02-18T17:32:39.789893900:  <- User60498: List
+2023-02-18T17:32:39.790915800:  -> User60498: Vartotoju sarasas:  User60494; User60498; TEST;
+2023-02-18T17:32:44.491328:  <- User60498: nic:TEST
+2023-02-18T17:32:50.630061:  <- User60498: List
+2023-02-18T17:32:50.630061:  -> User60498: Vartotoju sarasas:  User60494; User60498; TEST;
+2023-02-18T18:04:49.792364900:  <- User60556: /help
+2023-02-18T18:06:59.061562200:  <- User60563: /help
+2023-02-18T18:37:25.790705:  <- User56379: /helplalalal
+2023-02-18T18:37:43.326792200:  <- User56383: Listlalalal
+2023-02-18T18:37:57.041638:  <- User56387: /helplalalallalalal
+2023-02-18T18:38:52.315842900:  <- User56395: /help
+2023-02-18T18:42:55.776117700:  <- User56413: /helplalal
+2023-02-18T18:43:41.147618700:  <- User56413: Listlalal
+2023-02-18T18:52:03.661944200:  <- User56425: /list
+2023-02-18T18:52:03.661944200:  -> User56425: Vartotoju sarasas:  User56425; User56429; User56433;
+2023-02-18T18:52:05.582128900:  <- User56425: a
+2023-02-18T18:52:32.129992200:  <- User56429: /list
+2023-02-18T18:52:32.129992200:  -> User56429: Vartotoju sarasas:  User56425; User56429; User56433;
+2023-02-18T18:55:27.157250400:  <- User56448: /list
+2023-02-18T18:55:27.157250400:  -> User56448: Vartotoju sarasas:  User56448; User56453; User56457;
+2023-02-18T18:55:43.595891900:  <- User56448: /sdafsdf
+2023-02-18T18:59:07.550862500:  <- User56463: /list
+2023-02-18T18:59:07.550862500:  -> User56463: Vartotoju sarasas:  User56463; User56468;
+2023-02-18T18:59:16.831146:  <- User56463: labas
+2023-02-18T18:59:23.167458400:  <- User56463: /asfdafs
+2023-02-18T19:03:55.786554300:  <- User56477: /list
+2023-02-18T19:03:55.788574:  -> User56477: Vartotoju sarasas:  User56477; User56481; User56484;
+2023-02-18T19:04:11.640514500:  <- User56477: /private User56484 slapta
+2023-02-18T19:06:39.953113300:  <- User56495: /list
+2023-02-18T19:06:39.953113300:  -> User56495: Vartotoju sarasas:  User56495; User56499;
+2023-02-18T19:06:49.550337:  <- User56495: /private User56499 labas
+2023-02-18T19:07:09.557339:  <- User56495: /list
+2023-02-18T19:07:09.557339:  -> User56495: Vartotoju sarasas:  User56495; User56499;
+2023-02-18T19:07:12.348539300:  <- User56495: /asfijadfj
+2023-02-18T19:09:47.592527400:  <- User56495: S
+2023-02-18T19:16:43.907869800:  <- User60088: /list
+2023-02-18T19:16:43.907869800:  -> User60088: Vartotoju sarasas:  User60088; User60091; User60095;
+2023-02-18T19:16:55.017248300:  <- User60091: /nickname botas
+2023-02-18T19:17:32.924665400:  <- User60102: /list
+2023-02-18T19:17:32.924665400:  -> User60102: Vartotoju sarasas:  User60102; User60107; User60110;
+2023-02-18T19:17:39.116798800:  <- User60107: /nickname botas
+2023-02-18T19:17:44.001978600:  <- botas: /list
+2023-02-18T19:17:44.001978600:  -> botas: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:17:48.925409500:  <- User60102: /list
+2023-02-18T19:17:48.925409500:  -> User60102: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:18:25.185384400:  <- User60102: /nickname botas
+2023-02-18T19:18:29.311285700:  <- User60102: /list
+2023-02-18T19:18:29.311285700:  -> User60102: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:18:49.726543400:  <- User60102: /private botas slapta
+2023-02-18T19:18:56.770295300:  <- User60110: /list
+2023-02-18T19:18:56.770295300:  -> User60110: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:19:06.981906200:  <- User60102: a
+2023-02-18T19:19:55.850655800:  <- User60110: /list
+2023-02-18T19:19:55.850655800:  -> User60110: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:21:27.330786100:  <- User60110: fsf
+2023-02-18T19:21:46.136762900:  <- botas: /list
+2023-02-18T19:21:46.136762900:  -> botas: Vartotoju sarasas:  User60102; botas; User60110;
+2023-02-18T19:29:47.027766:  <- User60150: /list
+2023-02-18T19:29:47.033295200:  -> User60150: Vartotoju sarasas:  User60150; User60154; User60157;
+2023-02-18T19:29:52.863252600:  <- User60150: /asdk
+2023-02-18T19:30:08.195997800:  <- User60150: aasdasd
+2023-02-18T19:30:14.062027:  <- User60150: asdased /nickname s
+2023-02-18T19:32:38.321662800:  <- User60150: /asdasd /nickname nigger
+2023-02-18T19:33:19.318723300:  <- User60166: /list
+2023-02-18T19:33:19.318723300:  -> User60166: Vartotoju sarasas:  User60166; User60170;
+2023-02-18T19:33:26.020094100:  <- User60166: /asdasd /nickname nigger
+2023-02-18T19:33:40.364722100:  <- User60170: /list
+2023-02-18T19:33:40.364722100:  -> User60170: Vartotoju sarasas:  User60166; User60170;
+2023-02-18T19:39:33.683894:  <- User60198: /help
+2023-02-18T19:39:39.605652100:  <- User60198: a
+2023-02-18T19:39:43.701281500:  <- User60192: /leave
+2023-02-18T19:39:43.702284: User60192ATSIJUNGE
+2023-02-18T19:50:42.643733:  <- User60222: sveiki
+2023-02-18T19:50:46.270108500:  <- User60225: labas
+2023-02-18T19:50:51.151450900:  <- User60222: /list
+2023-02-18T19:50:51.151450900:  -> User60222: Vartotoju sarasas:  User60222; User60225; User60230;
+2023-02-18T19:50:54.793335100:  <- User60222: /help
+2023-02-18T19:51:03.899952100:  <- User60222: /nickname nigger
+2023-02-18T19:51:06.689655800:  <- nigger: /list
+2023-02-18T19:51:06.689655800:  -> nigger: Vartotoju sarasas:  nigger; User60225; User60230;
+2023-02-18T19:51:15.523182400:  <- User60225: /private nigger ka tu
+2023-02-18T19:51:26.655623600:  <- User60230: /private nigger aaaa
+2023-02-18T19:51:48.221298700:  <- nigger: /timestamp
+2023-02-18T19:54:44.421633300:  <- User60241: /leave
+2023-02-18T19:54:44.421633300: User60241ATSIJUNGE
+2023-02-18T19:55:03.259358100:  <- User60253: labas
+2023-02-18T19:55:07.200577300:  <- User60253: /leave
+2023-02-18T19:55:07.200577300: User60253ATSIJUNGE
+2023-02-18T19:56:17.872638200:  <- User60265: /leave
+2023-02-18T19:56:17.872638200: User60265ATSIJUNGE
+2023-02-18T20:03:32.830007700:  <- User49158: sveiki
+2023-02-18T20:03:41.793604900:  <- User49166: /nickname nigger
+2023-02-18T20:03:55.123563600:  <- User49158: /private nigger ka tu mazhule
+2023-02-18T20:04:15.570871:  <- User49162: /list
+2023-02-18T20:04:15.570871:  -> User49162: Vartotoju sarasas:  User49158; User49162; nigger;
+2023-02-18T20:04:22.074636900:  <- User49162: /private nigger test
+2023-02-18T20:05:22.247512500:  <- User49177: /nickname optimalinija
+2023-02-18T20:05:25.261337:  <- User49180: /list
+2023-02-18T20:05:25.261337:  -> User49180: Vartotoju sarasas:  optimalinija; User49180; User49185;
+2023-02-18T20:05:36.688367:  <- User49185: /private optimalinija kada akcijos normalios bus
+2023-02-18T20:05:56.734459600:  <- optimalinija: /list
+2023-02-18T20:05:56.734459600:  -> optimalinija: Vartotoju sarasas:  optimalinija; User49180; User49185;
+2023-02-18T20:06:14.639381700:  <- optimalinija: /list
+2023-02-18T20:06:14.640412600:  -> optimalinija: Vartotoju sarasas:  optimalinija; User49180; User49185;
+2023-02-18T20:06:25.208883900:  <- optimalinija: /private User49180 test
+2023-02-18T20:06:33.725617300:  <- User49180: /list
+2023-02-18T20:06:33.725617300:  -> User49180: Vartotoju sarasas:  optimalinija; User49180; User49185;
+2023-02-18T20:06:37.138083300:  <- User49180: /leave
+2023-02-18T20:06:37.138083300: User49180ATSIJUNGE
+2023-02-18T20:07:32.999443600:  <- User49195: /list
+2023-02-18T20:07:32.999443600:  -> User49195: Vartotoju sarasas:  User49191; User49195;
+2023-02-18T20:07:40.774023800:  <- User49195: /private User 49191 test
+2023-02-18T20:08:09.545733100:  <- User49200: /list
+2023-02-18T20:08:09.545733100:  -> User49200: Vartotoju sarasas:  User49191; User49195; User49200;
+2023-02-18T20:08:21.636577800:  <- User49203: /list
+2023-02-18T20:08:21.642587:  -> User49203: Vartotoju sarasas:  User49191; User49195; User49200; User49203;
+2023-02-18T20:08:30.115245300:  <- User49203: /private User49200 test
+2023-02-18T20:09:02.609898:  <- User49217: /nickname bot
+2023-02-18T20:09:04.832347700:  <- bot: /list
+2023-02-18T20:09:04.832347700:  -> bot: Vartotoju sarasas:  User49214; bot;
+2023-02-18T20:09:10.978378800:  <- User49214: /private bot ka tu
+2023-02-18T20:09:52.347982400:  <- User49236: /nickname test
+2023-02-18T20:09:57.975909500:  <- User49229: /private test ka tu
+2023-02-18T20:10:10.753979300:  <- User49229: /private test ka tu mazhule hahaha
+2023-02-18T23:19:55.097306900:  <- User53224: /list
+2023-02-18T23:19:55.103352500:  -> User53224: Vartotoju sarasas:  User53224;null User53227;host User53232;host
+2023-02-18T23:22:10.670037400:  <- User53239: /list
+2023-02-18T23:22:10.675115300:  -> User53239: Vartotoju sarasas:  User53239;null User53243;null User53247;host
+2023-02-18T23:23:32.546796700:  <- User53254: /list
+2023-02-18T23:23:32.551808800:  -> User53254: Vartotoju sarasas:  User53254;host User53259;nigger User53262;nigger
+2023-02-18T23:24:29.244250600:  <- User53270: /list
+2023-02-18T23:24:29.249769700:  -> User53270: Vartotoju sarasas:  User53270;host User53273;nigger User53277;meow
+2023-02-18T23:24:53.173449500:  <- User53270: /list
+2023-02-18T23:24:53.173449500:  -> User53270: Vartotoju sarasas:  User53270;host User53273;nigger User53277;meow User53282;meow User53287;meow User53292;meow
+2023-02-18T23:29:15.998113300:  <- User53305: /list
+2023-02-18T23:29:16.003629900:  -> User53305: Vartotoju sarasas:  User53305;host User53309;participant User53312;participant User53316;participant User53320;participant
+2023-02-18T23:31:19.975701700:  <- User53329: /list
+2023-02-18T23:31:19.980883800:  -> User53329: Vartotoju sarasas:  Host User53329; Participant User53332; Participant User53337;
+2023-02-18T23:32:41.619499600:  <- User53347: /list
+2023-02-18T23:32:41.624016:  -> User53347: Vartotoju sarasas:  [Host] User53343; [Participant] User53347;
+2023-02-18T23:39:31.936355900:  <- User53384: /list
+2023-02-18T23:39:31.940389300:  -> User53384: Vartotoju sarasas:  [Host] User53384; [Participant] User53387; [Participant] User53391; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:39:39.766471200:  <- User53387: /list
+2023-02-18T23:39:39.766471200:  -> User53387: Vartotoju sarasas:  [Host] User53384; [Participant] User53387; [Participant] User53391; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:39:44.727098100:  <- User53387: /nickname nigger
+2023-02-18T23:39:46.885497300:  <- nigger: /list
+2023-02-18T23:39:46.886499700:  -> nigger: Vartotoju sarasas:  [Host] User53384; [Participant] nigger; [Participant] User53391; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:39:54.908034800:  <- User53391: /nickname bot
+2023-02-18T23:40:04.742498:  <- User53384: /kick bot
+2023-02-18T23:40:04.743502: User53384ATSIJUNGE
+2023-02-18T23:40:50.310890700:  <- User53384: /list
+2023-02-18T23:40:50.311894600:  -> User53384: Vartotoju sarasas:  [Participant] nigger; [Participant] bot; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:41:00.025374100:  <- User53384: /list
+2023-02-18T23:41:00.026375700:  -> User53384: Vartotoju sarasas:  [Participant] nigger; [Participant] bot; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:41:03.721394400:  <- User53396: /list
+2023-02-18T23:41:03.721394400:  -> User53396: Vartotoju sarasas:  [Participant] nigger; [Participant] bot; [Participant] User53396; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:41:14.946447600:  <- User53396: /kick bot
+2023-02-18T23:41:14.946447600: User53396ATSIJUNGE
+2023-02-18T23:41:20.993447600:  <- User53396: /list
+2023-02-18T23:41:20.994850900:  -> User53396: Vartotoju sarasas:  [Participant] nigger; [Participant] bot; [Participant] User53399; [Participant] User53404;
+2023-02-18T23:42:18.218585300:  <- User53414: /list
+2023-02-18T23:42:18.222597200:  -> User53414: Vartotoju sarasas:  [Host] User53414; [Participant] User53418; [Participant] User53422;
+2023-02-18T23:42:25.582465300:  <- User53418: /nickname bot
+2023-02-18T23:42:28.965972200:  <- User53414: /list
+2023-02-18T23:42:28.966981400:  -> User53414: Vartotoju sarasas:  [Host] User53414; [Participant] bot; [Participant] User53422;
+2023-02-18T23:42:33.425667300:  <- User53414: /kick bot
+2023-02-18T23:42:33.427194300: User53414ATSIJUNGE
+2023-02-18T23:42:49.826554900:  <- User53414: /list
+2023-02-18T23:42:49.827564900:  -> User53414: Vartotoju sarasas:  [Host] User53414; [Participant] bot; [Participant] User53422;
+2023-02-18T23:43:17.745956100:  <- User53414: /kick boy
+2023-02-18T23:43:20.715027100:  <- User53414: 
+2023-02-18T23:43:35.081992600:  <- bot: /list
+2023-02-18T23:43:35.082998700:  -> bot: Vartotoju sarasas:  [Host] User53414; [Participant] bot; [Participant] User53422;
+2023-02-18T23:43:49.241560800:  <- bot: /kick User53422
+2023-02-18T23:43:49.242566700: botATSIJUNGE
+2023-02-18T23:43:54.120783100:  <- bot: /list
+2023-02-18T23:43:54.120783100:  -> bot: Vartotoju sarasas:  [Host] User53414; [Participant] bot; [Participant] User53422;
+2023-02-18T23:43:58.296442800:  <- User53422: /list
+2023-02-18T23:43:58.297442800:  -> User53422: Vartotoju sarasas:  [Host] User53414; [Participant] bot; [Participant] User53422;
+2023-02-18T23:47:34.239647900:  <- User53436: /list
+2023-02-18T23:47:34.245648900:  -> User53436: Vartotoju sarasas:  [Host] User53436; [Participant] User53440;
+2023-02-18T23:47:39.741432100:  <- User53440: /list
+2023-02-18T23:47:39.741432100:  -> User53440: Vartotoju sarasas:  [Host] User53436; [Participant] User53440;
+2023-02-18T23:47:43.029459600:  <- User53440: /nickname bot
+2023-02-18T23:47:45.560974300:  <- bot: /list
+2023-02-18T23:47:45.560974300:  -> bot: Vartotoju sarasas:  [Host] User53436; [Participant] bot;
+2023-02-18T23:47:50.271284200:  <- User53436: /kick bot
+2023-02-18T23:47:50.273284: User53436ATSIJUNGE
+2023-02-18T23:48:01.700087800:  <- bot: /list
+2023-02-18T23:48:01.700087800:  -> bot: Vartotoju sarasas:  [Host] User53436; [Participant] bot;
+2023-02-18T23:48:07.004457400:  <- bot: /kick bot
+2023-02-18T23:48:07.005453700: botATSIJUNGE
+2023-02-18T23:48:14.504875600:  <- bot: /list
+2023-02-18T23:48:14.505879800:  -> bot: Vartotoju sarasas:  [Host] User53436; [Participant] bot;
+2023-02-18T23:49:23.068558900:  <- User61505: /list
+2023-02-18T23:49:23.073082200:  -> User61505: Vartotoju sarasas:  [Host] User61505; [Participant] User61508;
+2023-02-18T23:49:30.079294:  <- User61505: /kick User61508
+2023-02-18T23:49:30.081294800: User61505ATSIJUNGE
+2023-02-18T23:49:38.037898900:  <- User61505: /list
+2023-02-18T23:49:38.037898900:  -> User61505: Vartotoju sarasas:  [Host] User61505;
+2023-02-18T23:50:59.282591200:  <- User61521: /nickname bot
+2023-02-18T23:51:02.100692800:  <- User61518: /list
+2023-02-18T23:51:02.104737100:  -> User61518: Vartotoju sarasas:  [Host] User61518; [Participant] bot;
+2023-02-18T23:51:06.957334600:  <- User61518: /kick bot
+2023-02-18T23:51:06.959336300: User61518ATSIJUNGE
+2023-02-18T23:54:51.188226200:  <- User61536: /nickname bot
+2023-02-18T23:54:56.068967300:  <- User61539: /nickname bandiuga
+2023-02-18T23:55:02.515435600:  <- User61530: /list
+2023-02-18T23:55:02.519973100:  -> User61530: Vartotoju sarasas:  [Host] User61530; [Participant] bot; [Participant] bandiuga; [Participant] User61544;
+2023-02-18T23:55:08.883031400:  <- User61530: /nickname admin
+2023-02-18T23:55:10.597832800:  <- admin: /list
+2023-02-18T23:55:10.598844100:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] bot; [Participant] bandiuga; [Participant] User61544;
+2023-02-18T23:55:20.479619600:  <- admin: /kick bandiuga adsd
+2023-02-18T23:55:20.482620800: adminATSIJUNGE
+2023-02-18T23:55:32.326451100:  <- admin: /list
+2023-02-18T23:55:32.327455400:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] bot; [Participant] User61544;
+2023-02-18T23:59:04.033343700:  <- User61559: /list
+2023-02-18T23:59:04.038863300:  -> User61559: Vartotoju sarasas:  [Host] User61559; [Participant] User61564; [Participant] User61567;
+2023-02-18T23:59:09.987201700:  <- User61564: /nickname bot
+2023-02-18T23:59:16.696474800:  <- User61567: /nickname vierchas
+2023-02-18T23:59:18.486504800:  <- vierchas: /list
+2023-02-18T23:59:18.487451800:  -> vierchas: Vartotoju sarasas:  [Host] User61559; [Participant] bot; [Participant] vierchas;
+2023-02-18T23:59:22.083463900:  <- vierchas: /kick bot
+2023-02-18T23:59:25.980562700:  <- vierchas: /list
+2023-02-18T23:59:25.980562700:  -> vierchas: Vartotoju sarasas:  [Host] User61559; [Participant] bot; [Participant] vierchas;
+2023-02-18T23:59:36.821064800:  <- bot: /kick vierchas
+2023-02-18T23:59:41.979578600:  <- User61559: /kick vierchas
+2023-02-18T23:59:41.982098500: User61559ATSIJUNGE
+2023-02-18T23:59:46.211129300:  <- User61559: /list
+2023-02-18T23:59:46.212136400:  -> User61559: Vartotoju sarasas:  [Host] User61559; [Participant] bot;
+2023-02-19T00:12:09.848896900:  <- User52832: /list
+2023-02-19T00:12:09.852412100:  -> User52832: Vartotoju sarasas:  [Host] User52832; [Participant] User52836; [Participant] User52840;
+2023-02-19T00:12:20.290380:  <- User52845: /list
+2023-02-19T00:12:20.290380:  -> User52845: Vartotoju sarasas:  [Host] User52832; [Participant] User52836; [Participant] User52840; [Participant] User52845;
+2023-02-19T00:12:23.864981:  <- User52845: /nickname bot
+2023-02-19T00:12:25.737739300:  <- bot: /list
+2023-02-19T00:12:25.738736700:  -> bot: Vartotoju sarasas:  [Host] User52832; [Participant] User52836; [Participant] User52840; [Participant] bot;
+2023-02-19T00:12:29.663023900:  <- bot: /leave
+2023-02-19T00:12:29.664553900: botATSIJUNGE
+2023-02-19T00:12:36.177475500:  <- User52832: /list
+2023-02-19T00:12:36.177475500:  -> User52832: Vartotoju sarasas:  [Host] User52832; [Participant] User52836; [Participant] User52840;
+2023-02-19T00:12:49.476960200:  <- User52832: /nickname admin
+2023-02-19T00:12:58.960973900:  <- User52836: /nickname ipedinis
+2023-02-19T00:13:00.714603900:  <- ipedinis: /list
+2023-02-19T00:13:00.715600400:  -> ipedinis: Vartotoju sarasas:  [Host] admin; [Participant] ipedinis; [Participant] User52840;
+2023-02-19T00:13:05.034238300:  <- admin: /leave
+2023-02-19T00:13:05.035236500: adminATSIJUNGE
+2023-02-19T00:13:08.946978100:  <- ipedinis: /list
+2023-02-19T00:13:08.947977100:  -> ipedinis: Vartotoju sarasas:  [Participant] ipedinis; [Participant] User52840;
+2023-02-19T00:14:05.662496600:  <- User52857: /nickname admin
+2023-02-19T00:14:11.452430:  <- User52860: /nickname ipedinis
+2023-02-19T00:14:13.949442100:  <- admin: /list
+2023-02-19T00:14:13.953957300:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] ipedinis; [Participant] User52865;
+2023-02-19T00:14:18.909681800:  <- admin: /leave
+2023-02-19T00:14:22.389472600:  <- ipedinis: /list
+2023-02-19T00:14:22.389472600:  -> ipedinis: Vartotoju sarasas:  [Participant] ipedinis; [Participant] User52865;
+2023-02-19T00:16:31.697567900:  <- User52874: /list
+2023-02-19T00:16:31.702917600:  -> User52874: Vartotoju sarasas:  [Host] User52874; [Participant] User52879; [Participant] User52884;
+2023-02-19T00:16:36.738545600:  <- User52874: /leave
+2023-02-19T00:16:36.741059200: User52874ATSIJUNGE
+2023-02-19T00:16:39.863819300:  <- User52879: /list
+2023-02-19T00:16:39.864820:  -> User52879: Vartotoju sarasas:  [Participant] User52879; [Participant] User52884;
+2023-02-19T00:16:54.404037300:  <- User52884: /list
+2023-02-19T00:16:54.405038300:  -> User52884: Vartotoju sarasas:  [Participant] User52879; [Participant] User52884;
+2023-02-19T00:18:22.245468300:  <- User52890: /nickname admin
+2023-02-19T00:18:29.527514:  <- User52895: /nickname ipdedinis
+2023-02-19T00:18:32.046508900:  <- admin: /list
+2023-02-19T00:18:32.050510200:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] ipdedinis; [Participant] User52899;
+2023-02-19T00:18:37.349024300:  <- admin: /leave
+2023-02-19T00:18:37.351158100: adminATSIJUNGE
+2023-02-19T00:19:08.906522300:  <- ipdedinis: /list
+2023-02-19T00:19:08.907521:  -> ipdedinis: Vartotoju sarasas:  [Participant] ipdedinis; [Participant] User52899;
+2023-02-19T00:19:49.859272:  <- User52906: /nickname a
+2023-02-19T00:19:53.320146200:  <- User52911: /nickname b
+2023-02-19T00:19:55.878075600:  <- a: /list
+2023-02-19T00:19:55.882579:  -> a: Vartotoju sarasas:  [Host] a; [Participant] b;
+2023-02-19T00:19:58.902986400:  <- a: /leave
+2023-02-19T00:19:58.903992600: aATSIJUNGE
+2023-02-19T00:20:06.976989600:  <- b: /list
+2023-02-19T00:20:06.976989600:  -> b: Vartotoju sarasas:  [Participant] b;
+2023-02-19T00:20:10.130863300:  <- b: /list
+2023-02-19T00:20:10.132373100:  -> b: Vartotoju sarasas:  [Participant] b;
+2023-02-19T00:24:36.607824600:  <- User52918: /nickname admin
+2023-02-19T00:24:41.876596400:  <- User52923: /nickname ipedinis
+2023-02-19T00:24:45.011791800:  <- admin: /list
+2023-02-19T00:24:45.016312500:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] ipedinis; [Participant] User52926;
+2023-02-19T00:24:48.548478800:  <- admin: /leave
+2023-02-19T00:24:48.549485600: adminATSIJUNGE
+2023-02-19T00:24:52.185451:  <- ipedinis: /list
+2023-02-19T00:24:52.185451:  -> ipedinis: Vartotoju sarasas:  [Host] ipedinis; [Participant] User52926;
+2023-02-19T00:25:27.940193:  <- User52939: /nickname bot
+2023-02-19T00:25:30.438470700:  <- User52936: /list
+2023-02-19T00:25:30.442987:  -> User52936: Vartotoju sarasas:  [Host] User52936; [Participant] bot;
+2023-02-19T00:25:35.518042400:  <- User52936: /leave
+2023-02-19T00:25:35.519038600: User52936ATSIJUNGE
+2023-02-19T00:25:38.266460700:  <- bot: /list
+2023-02-19T00:25:38.266460700:  -> bot: Vartotoju sarasas:  [Host] bot;
+2023-02-19T13:32:13.189858:  <- User61415: /nickname auka
+2023-02-19T13:32:17.004832700:  <- User61410: /list
+2023-02-19T13:32:17.009344900:  -> User61410: Vartotoju sarasas:  [Host] User61410; [Participant] auka; [Participant] User61419;
+2023-02-19T13:32:22.290326200:  <- User61410: /nickname admin
+2023-02-19T13:32:24.180304:  <- admin: /list
+2023-02-19T13:32:24.181305700:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] User61419;
+2023-02-19T13:32:32.255808800:  <- admin: /mute auka 60
+2023-02-19T13:32:41.008721400:  <- auka: a
+2023-02-19T13:44:11.802404800:  <- User61461: /nickname admin
+2023-02-19T13:44:15.665352900:  <- User61464: /nickname auka
+2023-02-19T13:44:20.126873200:  <- admin: /list
+2023-02-19T13:44:20.130396600:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] User61468;
+2023-02-19T13:44:29.038335100:  <- admin: /mute auka 30
+2023-02-19T13:44:31.457295600:  <- admin: a
+2023-02-19T13:44:33.240348400:  <- auka: a
+2023-02-19T13:44:37.721373900:  <- auka: a
+2023-02-19T13:44:42.552773200:  <- User61468: a
+2023-02-19T13:44:47.251551100:  <- User61468: asd
+2023-02-19T13:44:50.958315800:  <- User61468: sad
+2023-02-19T13:45:05.727294300:  <- User61468: dfg
+2023-02-19T13:47:33.016335500:  <- admin: /mute auka 60
+2023-02-19T13:47:37.528779:  <- auka: labas
+2023-02-19T13:47:42.790778500:  <- User61468: labas
+2023-02-19T13:52:10.274699300:  <- User61482: /nickname auka
+2023-02-19T13:52:14.548632500:  <- User61478: /nickname admin
+2023-02-19T13:52:15.754549500:  <- admin: /list
+2023-02-19T13:52:15.758551200:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] User61487; [Participant] User61490;
+2023-02-19T13:52:22.530653800:  <- admin: /mute auka 60
+2023-02-19T13:52:30.066294500:  <- auka: labas
+2023-02-19T13:52:36.833804200:  <- auka: /list
+2023-02-19T13:52:36.833804200:  -> auka: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] User61487; [Participant] User61490;
+2023-02-19T13:52:43.753788600:  <- auka: /mute admin 60
+2023-02-19T13:52:49.637755700:  <- admin: labas
+2023-02-19T13:53:01.744284300:  <- auka: /private admin kodel
+2023-02-19T13:53:17.439483500:  <- User61487: a
+2023-02-19T13:53:26.332166700:  <- auka: o sveiki
+2023-02-19T13:53:34.440786100:  <- admin: /kick auka
+2023-02-19T13:53:34.444314500: adminismestas
+2023-02-19T13:53:40.879793200:  <- auka: /list
+2023-02-19T13:53:40.881298900:  -> auka: Vartotoju sarasas:  [Host] admin; [Participant] User61487; [Participant] User61490;
+2023-02-19T13:53:56.046784400:  <- auka: a
+2023-02-19T13:54:00.341537900:  <- auka: asdasd
+2023-02-19T13:54:27.699398500:  <- auka: /kick admin
+2023-02-19T13:54:30.448693700:  <- User61487: aa
+2023-02-19T13:54:32.757270800:  <- User61490: asdasd
+2023-02-19T13:54:39.635781900:  <- admin: asd
+2023-02-19T13:54:50.453822200:  <- admin: labas
+2023-02-19T13:55:04.563340200:  <- User61490: /leave
+2023-02-19T13:55:04.564335900: User61490ATSIJUNGE
+2023-02-19T13:55:10.361367100:  <- User61487: asd
+2023-02-19T13:55:24.286314700:  <- auka: /kick admin
+2023-02-19T13:55:28.671962400:  <- admin: arqwre
+2023-02-19T13:55:31.567778700:  <- auka: afssf
+2023-02-19T13:59:47.471828:  <- User61512: /nickname auka
+2023-02-19T13:59:52.340708700:  <- User61508: /nickname admin
+2023-02-19T13:59:54.560340:  <- admin: /list
+2023-02-19T13:59:54.564347100:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] User61516;
+2023-02-19T13:59:57.914808900:  <- admin: /kick auka
+2023-02-19T13:59:57.918032700: aukaismestas
+2023-02-19T14:00:05.986773:  <- auka: a
+2023-02-19T14:00:13.320835200:  <- auka: /list
+2023-02-19T14:00:13.321833600:  -> auka: Vartotoju sarasas:  [Host] auka; [Participant] auka; [Participant] User61516;
+2023-02-19T14:00:48.084269300:  <- User61527: /nickname auka
+2023-02-19T14:00:51.067208600:  <- User61523: /list
+2023-02-19T14:00:51.071248:  -> User61523: Vartotoju sarasas:  [Host] User61523; [Participant] auka; [Participant] User61530;
+2023-02-19T14:00:53.464507600:  <- User61523: /kick auka
+2023-02-19T14:00:53.473644: User61523ismestas
+2023-02-19T14:00:57.449292600:  <- User61523: /list
+2023-02-19T14:00:57.450296600:  -> User61523: Vartotoju sarasas:  [Host] User61523; [Participant] auka; [Participant] User61530;
+2023-02-19T14:00:59.931836500:  <- auka: a
+2023-02-19T14:22:23.912843200:  <- User61540: /list
+2023-02-19T14:22:23.918864500:  -> User61540: Vartotoju sarasas:  [Host] User61540; [Participant] User61545; [Participant] User61549;
+2023-02-19T14:22:30.170321500:  <- User61545: /nickname auka
+2023-02-19T14:22:36.799011800:  <- User61540: /nickname admin
+2023-02-19T14:22:40.838585400:  <- admin: /mute auka 120
+2023-02-19T14:22:48.905877100:  <- auka: a
+2023-02-19T14:22:52.021813100:  <- admin: a
+2023-02-19T14:22:58.420928100:  <- auka: /private admin meow
+2023-02-19T14:23:05.462097300:  <- admin: /mute auka 0
+2023-02-19T16:04:51.969287900:  <- User64099: /nickname admin
+2023-02-19T16:04:56.511302700:  <- User64104: /nickname auka
+2023-02-19T16:05:00.740798600:  <- User64107: /nickname dalyvis
+2023-02-19T16:05:04.700786100:  <- admin: /list
+2023-02-19T16:05:04.705293100:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] dalyvis; [Participant] User64111;
+2023-02-19T16:05:36.176782100:  <- admin: /createpoll sd
+2023-02-19T16:06:44.972329300:  <- admin: /createpoll Kokia megstamiausia spalva? melyna zalia raudona
+2023-02-19T16:07:14.106787400:  <- auka: /vote 2
+2023-02-19T16:07:31.099011400:  <- admin: /showpoll
+2023-02-19T16:07:44.475295900:  <- admin: /closepoll
+2023-02-19T16:07:57.635864300:  <- admin: /createpoll kokia? melyna raudona zalia
+2023-02-19T16:08:08.932561200:  <- admin: /vote zalia
+2023-02-19T16:08:55.591823600:  <- auka: melyna
+2023-02-19T16:09:04.111507200:  <- auka: /vote melyna
+2023-02-19T16:09:09.851313300:  <- auka: /vote zalia
+2023-02-19T16:12:07.084541:  <- User64136: /createpoll kokia? melyna zalia raudona
+2023-02-19T16:12:49.132782600:  <- User64140: /list
+2023-02-19T16:12:49.136792900:  -> User64140: Vartotoju sarasas:  [Host] User64136; [Participant] User64140; [Participant] User64144;
+2023-02-19T16:12:53.987708700:  <- User64140: /showpoll
+2023-02-19T16:15:23.161315500:  <- User64163: /nickname admin
+2023-02-19T16:15:31.115149900:  <- admin: /createpoll kokia? melyna zalia raudona
+2023-02-19T16:15:41.421985600:  <- User64167: /vote melyna
+2023-02-19T16:21:26.551295200:  <- User64183: /createpoll kokia? 1 2 3
+2023-02-19T16:21:32.954331900:  <- User64186: /vote 1
+2023-02-19T16:21:46.859308300:  <- User64190: /vote 1
+2023-02-19T16:24:48.143564400:  <- User64186: /nickname auka
+2023-02-19T16:24:57.733804:  <- User64183: /list
+2023-02-19T16:24:57.737821400:  -> User64183: Vartotoju sarasas:  [Host] User64183; [Participant] auka; [Participant] User64190;
+2023-02-19T16:25:07.853597600:  <- User64203: /list
+2023-02-19T16:25:07.853597600:  -> User64203: Vartotoju sarasas:  [Host] User64183; [Participant] auka; [Participant] User64190; [Participant] User64200; [Participant] User64203;
+2023-02-19T16:35:05.858827500:  <- User64219: /createpoll kokia? zalia melyna raudona
+2023-02-19T16:35:45.969860900:  <- User64219: /vote zalia
+2023-02-19T16:36:00.092789600:  <- User64223: /vote melyna
+2023-02-19T16:36:16.004115300:  <- User64228: /vote zalia
+2023-02-19T16:36:27.106781900:  <- User64223: /pollresults
+2023-02-19T16:36:30.742948500:  <- User64223: /list
+2023-02-19T16:36:30.746474600:  -> User64223: Vartotoju sarasas:  [Host] User64219; [Participant] User64223; [Participant] User64228;
+2023-02-19T16:36:41.166783300:  <- User64219: /pollresults
+2023-02-19T16:38:51.781788800:  <- User64240: /createpoll "kokia megstamiausia spalva?" zalia melyna raudona
+2023-02-19T16:39:05.806303100:  <- User64244: /vote melyna
+2023-02-19T16:39:17.911832800:  <- User64244: /vote 1
+2023-02-19T16:41:04.967702300:  <- User64244: /createpoll kokia? melyna geltona oranzine
+2023-02-19T16:41:15.579759400:  <- User64240: /vote geltona
+2023-02-19T16:41:29.045118300:  <- User64251: /pollresults
+2023-02-19T16:47:05.469939900:  <- User64270: /nickname admin
+2023-02-19T16:47:09.380799200:  <- User64274: /nickname auka
+2023-02-19T16:47:17.158753:  <- User64278: /nickname dalyvis
+2023-02-19T16:47:20.117896900:  <- admin: /list
+2023-02-19T16:47:20.121902500:  -> admin: Vartotoju sarasas:  [Host] admin; [Participant] auka; [Participant] dalyvis;
+2023-02-19T16:47:29.774975300:  <- admin: /createpoll kokia? melyna zalia raudona
+2023-02-19T16:47:39.203174300:  <- auka: /vote melyna
+2023-02-19T16:47:50.013274700:  <- auka: /pollresults
+2023-02-19T16:50:02.789836600:  <- User64285: /createpoll kokia? melyna raudona zalia
+2023-02-19T16:50:08.599791700:  <- User64290: /vote melyna
+2023-02-19T16:50:16.780780800:  <- User64290: /pollresults
+2023-02-19T16:53:51.389006700:  <- User64285: /vote zalia
+2023-02-19T17:03:17.258301100:  <- User64308: /createpoll kokia? melyna zalia raudona
+2023-02-19T17:03:22.211624800:  <- User64312: /vote melyna
+2023-02-19T17:03:27.848804900:  <- User64308: /list
+2023-02-19T17:03:27.853323300:  -> User64308: Vartotoju sarasas:  [Host] User64308; [Participant] User64312; [Participant] User64317;
+2023-02-19T17:03:34.509501600:  <- User64308: /pollresults
+2023-02-19T17:04:50.833340:  <- User64312: /vote zalia
+2023-02-19T17:04:59.459622600:  <- User64312: /vote raudona
+2023-02-19T17:05:06.158786600:  <- User64312: /vote geltona
+2023-02-19T17:12:43.940324100:  <- User64336: /createpoll kokia megstamiausia spalva? | melyna | zalia | raudona
+2023-02-19T17:15:06.279001700:  <- User64355: /createpoll kokia megsta spalva?:melyna:raudona:zalia
+2023-02-19T17:15:22.895432600:  <- User64355: /createpoll: kokia megsta spalva?:melyna:raudona:zalia
+2023-02-19T17:15:37.883040500:  <- User64359: /vote zalia
+2023-02-19T17:15:43.918332200:  <- User64359: /pollresults
+2023-02-19T17:15:57.193324400:  <- User64355: a
+2023-02-19T17:16:01.742787100:  <- User64355: /pollresults
+2023-02-19T17:40:03.757317200:  <- User64398: /list
+2023-02-19T17:40:03.761317800:  -> User64398: Vartotoju sarasas:  [Host] User64398; [Participant] User64402; [Participant] User64405;
+2023-02-19T17:40:23.036793600:  <- User64398: /createpoll:kokia megstamiausia spalva?:zalia:melyna:raudona
+2023-02-19T17:40:35.220742900:  <- User64402: /vote melyna
+2023-02-19T17:40:43.300285200:  <- User64402: /pollresults
+2023-02-19T17:40:48.651294900:  <- User64402: /vote zalia
+2023-02-19T17:40:55.570543:  <- User64402: /pollresults
+2023-02-19T17:46:28.267807300:  <- User64428: /createpoll:kokia jusu megstamiausia spalva?:raudona:zalia:melyna
+2023-02-19T17:46:36.351762500:  <- User64428: /vote melyna
+2023-02-19T17:46:44.045732:  <- User64432: /vote melyna
+2023-02-19T17:46:48.398224700:  <- User64436: /vote raudona
+2023-02-19T17:46:52.985787300:  <- User64436: /pollresults
+2023-02-19T17:46:58.377312900:  <- User64436: /closepoll
+2023-02-19T17:47:05.611654600:  <- User64436: /vote zalia
+2023-02-19T17:47:12.824894:  <- User64428: /closepoll
